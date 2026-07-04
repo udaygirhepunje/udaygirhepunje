@@ -50,6 +50,10 @@ I am a software engineer who enjoys building everything from browser productivit
 ### 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=udaygirhepunje&show_icons=true&hide_border=true&theme=radium" alt="Uday's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaygirhepunje&layout=compact&hide_border=true&theme=radium" alt="Top Languages" />
+  <img src="https://metrics.lecoq.io/udaygirhepunje" alt="Uday's GitHub Metrics" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udaygirhepunje&theme=radium&hide_border=true" alt="Uday's GitHub Streak" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/udaygirhepunje?tab=repositories"><b>🗄️ View All Projects</b></a>
 </p>
