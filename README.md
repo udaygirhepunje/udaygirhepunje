@@ -14,7 +14,7 @@ I am a software engineer who enjoys building everything from browser productivit
 - 🔭 **Currently building:** **[gitInsights](https://github.com/udaygirhepunje/gitInsights)** (A zero-server developer dashboard) and exploring AI-assisted workflows.
 - 🌱 **Currently exploring:** Advanced Prompt Engineering, Spec-Driven Development, and modern Next.js architectures.
 - 💡 **Philosophy:** The best code is the code you don't have to write. I leverage AI tools to handle boilerplate so I can focus on system design and user experience.
-- 🎯 **Fun fact:** I love participating in hackathons—I can build complete MVPs from scratch over a single weekend.
+- 🎯 **Fun fact:** I love participating in hackathons, I can build complete MVPs from scratch over a single weekend.
 
 ---
 
