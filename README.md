@@ -45,6 +45,11 @@ I am a software engineer who enjoys building everything from browser productivit
 > A productivity-focused Firefox extension that copies the current tab's URL to the clipboard with a single click, featuring adaptive UI elements for light/dark themes.
 > *Built with: JavaScript, WebExtensions API*
 
+<br>
+<p align="right">
+  <a href="https://github.com/udaygirhepunje?tab=repositories"><b>🗄️ View All Projects ➔</b></a>
+</p>
+
 ---
 
 ### 📈 GitHub Activity
@@ -52,8 +57,4 @@ I am a software engineer who enjoys building everything from browser productivit
 <p align="center">
   <img src="https://metrics.lecoq.io/udaygirhepunje" alt="Uday's GitHub Metrics" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=udaygirhepunje&theme=radium&hide_border=true" alt="Uday's GitHub Streak" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/udaygirhepunje?tab=repositories"><b>🗄️ View All Projects</b></a>
 </p>
