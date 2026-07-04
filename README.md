@@ -2,7 +2,7 @@
 
 **Software Engineer | Problem Solver | Continuous Learner**
 
-I build everything from browser extensions to full-stack web applications. I care deeply about writing clean code and solving complex architectural problems. As the software landscape evolves, I actively adapt my workflow—moving from traditional hand-coding to AI-assisted, spec-driven development to build better software, faster.
+I build everything from browser extensions to full-stack web applications. I care deeply about writing clean code and solving complex architectural problems. As the software landscape evolves, I actively adapt my workflow, moving from traditional hand-coding to AI-assisted, spec-driven development to build better software, faster.
 
 [LinkedIn](https://www.linkedin.com/in/uday-girhepunje-6958a21b8/)
 [Portfolio](https://udaygirhepunje.me)
