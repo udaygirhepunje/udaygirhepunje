@@ -49,12 +49,3 @@ I am a software engineer who enjoys building everything from browser productivit
 <p align="right">
   <a href="https://github.com/udaygirhepunje?tab=repositories"><b>🗄️ View All Projects ➔</b></a>
 </p>
-
----
-
-### 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/udaygirhepunje" alt="Uday's GitHub Metrics" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udaygirhepunje&theme=radium&hide_border=true" alt="Uday's GitHub Streak" />
-</p>
