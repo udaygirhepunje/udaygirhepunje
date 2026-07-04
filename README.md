@@ -4,9 +4,9 @@
 
 I build everything from browser extensions to full-stack web applications. I care deeply about writing clean code and solving complex architectural problems. As the software landscape evolves, I actively adapt my workflow, moving from traditional hand-coding to AI-assisted, spec-driven development to build better software, faster.
 
-[LinkedIn](https://www.linkedin.com/in/uday-girhepunje-6958a21b8/)
-[Portfolio](https://udaygirhepunje.me)
-[Email](mailto:udaygirhepunje41@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uday-girhepunje-6958a21b8/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white)](https://udaygirhepunje.me)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udaygirhepunje41@gmail.com)
 
 ---
 
