@@ -1,40 +1,55 @@
-### Hi there 👋, I'm Uday Girhepunje 
-#### A passionate front-end developer from India
-[![Twitter Follow](https://img.shields.io/twitter/follow/UdayGirhepunje?label=Follow)](https://twitter.com/intent/follow?screen_name=UdayGirhepunje)
-[![Linkedin: Uday](https://img.shields.io/badge/-Uday-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/uday-girhepunje-6958a21b8/)](https://www.linkedin.com/in/uday-girhepunje-6958a21b8/)
-![Profile views](https://gpvc.arturio.dev/MrCoder991)  
+# Uday Girhepunje
+**Software Engineer | Problem Solver | Continuous Learner**
 
+I am a software engineer who enjoys building everything from browser productivity extensions to full-stack web applications. I care deeply about writing clean code, solving complex architectural problems, and aggressively adopting new paradigms. As the software landscape evolves, I actively tweak my developer workflow—transitioning from traditional hand-coding to AI-assisted, specification-driven development to build better software, faster.
 
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uday-girhepunje-6958a21b8/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white)](https://udaygirhepunje.me)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udaygirhepunje41@gmail.com)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrcoder991/mrcoder991/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrcoder991/mrcoder991/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mrcoder991/mrcoder991/output/pacman-contribution-graph.svg">
-</picture>
+---
 
-###
+### ⚡ At a Glance
 
-I am a computer engineering student at SPPU Pune. I am passionate about frontend developement but sometimes I had to make hands dirty in backend too. 🥱 
+- 🔭 **Currently building:** **[gitInsights](https://github.com/udaygirhepunje/gitInsights)** (A zero-server developer dashboard) and exploring AI-assisted workflows.
+- 🌱 **Currently exploring:** Advanced Prompt Engineering, Spec-Driven Development, and modern Next.js architectures.
+- 💡 **Philosophy:** The best code is the code you don't have to write. I leverage AI tools to handle boilerplate so I can focus on system design and user experience.
+- 🎯 **Fun fact:** I love participating in hackathons—I can build complete MVPs from scratch over a single weekend.
 
-Skills: REACT / JS / HTML / CSS / Python 
+---
 
-- 🔭 I’m currently working on A secret project 🤫 
-- 🌱 I’m currently learning React 
-- 💬 Ask me about Front-end developement 
-- 📫 How to reach me: udaygirhepunje41@gmail.com  
-- ⚡ Fun fact: I can code 12 hrs straight in a hackathon and rest untill next hackthon  
+### 🛠️ The Toolbox
 
+* **Languages:** JavaScript (ES6+), TypeScript, Python, Java, C++
+* **Frontend:** React.js, Next.js, HTML5/CSS3, Tailwind CSS
+* **Backend & DB:** Node.js, Express, MongoDB, Firebase
+* **Workflow & Tools:** Git, GitHub Actions, AI Coding Assistants (Cursor, Copilot), Linux
 
-[<img src='github.svg' alt='github' height='40'>](https://github.com/MrCoder991)  [<img src='linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/uday-girhepunje-6958a21b8//)  [<img src='facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Uday-Girhepunje/100009394355759/)  [<img src='instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/uday_699/)  [<img src='twitter.svg' alt='twitter' height='40'>](https://twitter.com/UdayGirhepunje)  [<img src='stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/16183998/uday-girhepunje)  [<img src='website.svg' alt='website' height='40'>](https://udaygirhepunje.me)  
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrCoder991&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+### 🏆 Featured Projects
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrCoder991&show_icons=true&count_private=true&theme=onedark)  
+**[gitInsights](https://github.com/udaygirhepunje/gitInsights)** 
+> A zero-server developer identity dashboard. Reads your GitHub data and runs analytics entirely in the browser without backend storage, showing your work the way you see it—not how a manager dashboard does.
+> *Built with: TypeScript, React, GitHub API*
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MrCoder991&theme=onedark)  
+**[vibe-chat](https://github.com/udaygirhepunje/vibe-chat)**
+> A private, real-time chat application built by embracing modern AI-assisted development ("vibe coding"). Users can chat privately after accepting invites.
+> *Built with: Next.js, TypeScript, Firebase*
 
-![GitHub metrics](https://metrics.lecoq.io/MrCoder991)  
+**[PullPandaAI](https://github.com/udaygirhepunje/PullPandaAI)**
+> A GitHub App that automatically reviews code in pull requests and posts intelligent review comments to maintain code quality.
+> *Built with: TypeScript, Probot Framework, LLM APIs*
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MrCoder991&theme=onedark)  
+**[copy-link-extention-moz](https://github.com/udaygirhepunje/copy-link-extention-moz)**
+> A productivity-focused Firefox extension that copies the current tab's URL to the clipboard with a single click, featuring adaptive UI elements for light/dark themes.
+> *Built with: JavaScript, WebExtensions API*
 
+---
+
+### 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=udaygirhepunje&show_icons=true&hide_border=true&theme=radium" alt="Uday's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaygirhepunje&layout=compact&hide_border=true&theme=radium" alt="Top Languages" />
+</p>
